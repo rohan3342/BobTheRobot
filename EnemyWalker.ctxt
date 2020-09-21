@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=EnemyWalker
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ EnemyWalker\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=upAndDown
+comment1.target=EnemyWalker(boolean)
+comment2.params=upAndDown\ w
+comment2.target=EnemyWalker(boolean,\ boolean)
+comment3.params=upAndDown\ w\ x
+comment3.target=EnemyWalker(boolean,\ boolean,\ boolean)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ enemyHitWalls()
+comment6.params=
+comment6.target=void\ moveAround()
+numComments=7
